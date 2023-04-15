@@ -1,0 +1,82 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/Por/musica.png",
+      "title": "Musica",
+      "description": "React and Tailwind",
+      "url": "https://musica-divineade.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/3D card.png",
+      "title": "Nike 3d card",
+      "description": "React and Tailwind",
+      "url": "https://nike-animated-card.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/por/Screenshot (44).png",
+      "title": "Chappo landing page",
+      "description": "Html, Css & Js",
+      "url": "http://chappo-crypto-website.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (54).png",
+      "title": "Campus Site",
+      "description": "Html, Css & Js",
+      "url": "https://campus-mu.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/nav.png",
+      "title": "Topg Nav",
+      "description": "React and CSS",
+      "url": "https://navigation-six.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/pin.png",
+      "title": "Gsap-1",
+      "description": "React and CSS",
+      "url": "https://gsap-pin.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (58).png",
+      "title": "Password Gen",
+      "description": "Html, Css & Js",
+      "url": "http://password-generator-v4l4.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/por/Screenshot (5).png",
+      "title": "Counter App",
+      "description": "Html, Css & Js",
+      "url": "https://counter-app-lime.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (60).png",
+      "title": "Calculator",
+      "description": "Html, Css & Js",
+      "url": "https://calculator-app-2dqh.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (41).png",
+      "title": "On/off Switch",
+      "description": "Html, Css & Js",
+      "url": "http://simple-switch.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (57).png",
+      "title": "Weather App",
+      "description": "Html, Css & Js",
+      "url": "https://weather-app-divineade.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (56).png",
+      "title": "Lintree Project",
+      "description": "React and CSS",
+      "url": "http://task-one-delta.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (37).png",
+      "title": "2023 countdown",
+      "description": "Html, Css & Js",
+      "url": "http://new-year-countdown-delta.vercel.app/"
+    }
+  ]
+}
