@@ -19,6 +19,18 @@
       "url": "http://chappo-crypto-website.vercel.app/"
     },
     {
+      "cover": "/portfolio/Por/Screenshot (70).png",
+      "title": "Multi-page form",
+      "description": "React and CSS",
+      "url": "https://login-form-divineade.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/Screenshot (71).png",
+      "title": "Tic-Tac-Toe game",
+      "description": "React and CSS",
+      "url": "https://tic-tac-toe-app-ten.vercel.app/"
+    },
+    {
       "cover": "/portfolio/Por/Screenshot (54).png",
       "title": "Campus Site",
       "description": "Html, Css & Js",
