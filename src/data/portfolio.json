@@ -1,16 +1,40 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/Por/sskn.png",
+      "title": "SSKN",
+      "description": "Next js and Tailwind",
+      "url": "https://sskn.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/movie-box.png",
+      "title": "SSKN",
+      "description": "Next js and Tailwind",
+      "url": "https://hng-movie-box.vercel.app/"
+    },
+    {
       "cover": "/portfolio/Por/musica.png",
       "title": "Musica",
       "description": "React and Tailwind",
       "url": "https://musica-divineade.vercel.app/"
     },
     {
+      "cover": "/portfolio/Por/nike shoes.png",
+      "title": "Nike store",
+      "description": "React and Tailwind",
+      "url": "https://nike-store-pi.vercel.app/"
+    },
+    {
       "cover": "/portfolio/Por/3D card.png",
       "title": "Nike 3d card",
       "description": "React and Tailwind",
       "url": "https://nike-animated-card.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/imagge dnd gallery.png",
+      "title": "DND image gallery",
+      "description": "Next js and Tailwind",
+      "url": "https://divine-dnd-gallery.vercel.app/"
     },
     {
       "cover": "/portfolio/por/Screenshot (44).png",
