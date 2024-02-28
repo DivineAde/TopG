@@ -7,6 +7,24 @@
       "url": "https://sskn.vercel.app/"
     },
     {
+      "cover": "/portfolio/Por/chart dashboard.png",
+      "title": "Chart Dashboard",
+      "description": "Next js and Tailwind",
+      "url": "https://chart-dashboard-psi.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/memory game.png",
+      "title": "Memory game",
+      "description": "React js and Tailwind",
+      "url": "https://memory-game-divineade.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/Por/fashion.png",
+      "title": "Fashion",
+      "description": "Next js and Tailwind",
+      "url": "https://ibere-psi.vercel.app/"
+    },
+    {
       "cover": "/portfolio/Por/movie-box.png",
       "title": "Movie Box",
       "description": "Next js and Tailwind",
